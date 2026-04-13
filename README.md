@@ -8,10 +8,7 @@ Your production monitoring has flagged some errors. The logs are in the `logs/` 
 
 **Your workflow:**
 1. Read the log files - identify what's going wrong
-2. Create a GitHub issue describing the bug: `gh issue create --title "..." --body "..."`
-3. Fix the bug (with AI assistance)
-4. Write a test that would have caught this bug
-5. Create a PR: `gh pr create`
+2. Fix the bug
 
 There are 3 bugs at different difficulty levels. Pick one based on your confidence:
 - `error-2024-01-20.log` - Start here if unsure
